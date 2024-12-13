@@ -1,0 +1,47 @@
+family,name,status,congener,vertical,feedguild,airbreathing,habitat,tl,range,drainages
+Anabantidae,"Anabas testudineus (Bloch, 1792)",0,0,benthic,omni,1,2,23,4,4
+Aplocheilidae,"Aplocheilus panchax (Hamilton, 1822)",0,0,pelagic,omni,0,2,6,3,6
+Osphronemidae,"Belontia hasselti (Cuvier, 1831)",1,0,pelagic,insect,1,1,19.5,2,1
+Osphronemidae,"Betta imbellis Ladiges, 1975",0,2,pelagic,piscivore-insectivore,1,2,6,1,2
+Osphronemidae,"Betta pugnax (Cantor, 1849)",0,2,pelagic,omni,1,1,10,2,4
+Osphronemidae,"Betta tomi Ng & Kottelat, 1994",1,2,pelagic,piscivore-insectivore,1,1,9.8,1,1
+Cyprinidae,"Boraras maculatus (Duncker, 1904)",0,0,pelagic,insect,0,1,2.5,1,2
+Channidae,"Channa gachua (Hamilton, 1822)",0,3,pelagic,piscivore-insectivore,1,1,20,4,3
+Channidae,"Channa lucius (Cuvier, 1831)",0,3,pelagic,piscivore,1,1,40,3,3
+Channidae,"Channa melasoma (Bleeker, 1851)",0,3,pelagic,piscivore,1,1,28,4,2
+Channidae,"Channa striata (Bloch, 1793)",0,3,pelagic,piscivore-insectivore,1,2,90,4,6
+Clariidae,"Clarias batrachus (Linnaeus, 1758)",0,3,benthic,piscivore,1,2,40,3,10
+Clariidae,"Clarias leiacanthus Bleeker, 1851",0,3,benthic,piscivore,1,1,40,2,1
+Clariidae,"Clarias meladerma Bleeker, 1846",1,3,benthic,piscivore,1,1,39.8,3,1
+Clariidae,"Clarias nieuhofii Valenciennes, 1840",0,3,benthic,piscivore,1,1,50,3,2
+Cyprinidae,"Cyclocheilichthys apogon (Valenciennes, 1842)",0,0,pelagic,omni,0,2,20,3,3
+Hemiramphidae,"Dermogenys collettei Meisner, 2001",0,0,pelagic,insect,0,2,7,4,8
+Gobiidae,"Eugnathogobius oligactis (Bleeker, 1875)",1,1,benthic,piscivore-insectivore,0,2,6,2,2
+Gobiidae,"Eugnathogobius siamensis (Fowler, 1934)",0,1,benthic,insect,0,2,4,3,3
+Sisoridae,"Glyptothorax callopterus Smith, 1945",1,0,benthic,omni,0,1,14.4,1,1
+Gobiidae,"Gobiopterus brachypterus (Bleeker, 1855)",0,1,pelagic,herb-plank,0,2,2.9,3,6
+Hemiramphidae,"Hemirhamphodon pogonognathus (Bleeker, 1853)",0,0,pelagic,insect,0,1,12,2,2
+Osphronemidae,"Luciocephalus pulcher (Gray, 1830)",0,0,pelagic,piscivore,0,1,18,2,2
+Mastacembelidae,"Macrognathus maculatus (Cuvier, 1832)",0,0,benthic,insect,0,1,19,3,2
+Synbranchidae,"Monopterus albus (Zuiew, 1793)",0,0,benthic,piscivore-insectivore,1,2,40,5,5
+Nandidae,"Nandus nebulosus (Gray, 1835)",0,0,benthic,piscivore,0,1,13.5,3,3
+Balitoridae,"Nemacheilus selangoricus Duncker, 1904",0,0,benthic,omni,0,1,9,2,1
+Siluridae,"Ompok fumidus Tan & Ng, 1996",1,0,benthic,piscivore-insectivore,0,1,18,2,1
+Cyprinidae,"Osteochilus spilurus (Bleeker, 1851)",1,0,pelagic,herbivore-plank,0,1,15.6,3,1
+Gobiidae,"Oxyeleotris marmorata (Bleeker, 1852)",0,0,benthic,piscivore,0,2,60,4,3
+Cobitidae,"Pangio muraeniformis (de Beaufort, 1933)",0,1,benthic,omni,0,1,8,2,1
+Cobitidae,"Pangio semicincta (Fraser-Brunner, 1940)",1,1,benthic,omni,0,1,8,1,1
+Akysidae,"Parakysis longirostris Ng & Lim, 1995",0,0,benthic,insect,0,1,3,1,1
+Bagridae,"Pseudomystus leiacanthus (Weber & de Beaufort, 1912)",0,0,benthic,omni,0,1,6.2,2,1
+Cyprinidae,"Rasbora cephalotaenia (Bleeker, 1852)",1,3,pelagic,insect,0,1,13,2,1
+Cyprinidae,"Rasbora einthovenii (Bleeker, 1851)",0,3,pelagic,omni,0,2,9,2,6
+Cyprinidae,"Rasbora elegans Volz, 1903",0,3,pelagic,insect,0,1,13,2,2
+Cyprinidae,"Rasbora paucisqualis Ahl, 1935",1,3,pelagic,insect,0,2,10,2,1
+Siluridae,"Silurichthys hasselti Bleeker, 1858",0,0,pelagic,insect,0,1,14,3,4
+Cyprinidae,"Systomus banksi (Herre, 1940)",0,3,pelagic,omni,0,1,18,2,6
+Cyprinidae,"Systomus dunckeri (Ahl, 1929)",1,3,pelagic,omni,0,1,8.6,2,2
+Cyprinidae,"Systomus hexazona (Weber & de Beaufort, 1912)",0,3,pelagic,omni,0,1,5.5,3,2
+Cyprinidae,"Systomus lateristriga (Valenciennes, 1842)",0,3,pelagic,omni,0,1,18,2,3
+Osphronemidae,"Trichopodus trichopterus (Pallas, 1770)",0,0,pelagic,omni,1,2,15,3,7
+Osphronemidae,"Trichopsis vittata (Cuvier, 1831)",0,0,pelagic,omni,0,2,6,3,8
+Cyprinidae,"Trigonostigma heteromorpha (Duncker, 1904)",0,0,pelagic,insect,0,1,5,1,2
